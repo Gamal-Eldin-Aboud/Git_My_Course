@@ -1,3 +1,3 @@
-# Git_My_First_Course
+# Git_My_Course
 
 ## Project Notes
